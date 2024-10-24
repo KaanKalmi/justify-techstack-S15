@@ -16,7 +16,7 @@ Toch biedt Nuxt enkele duidelijke voordelen:
 De nadelen, zoals de complexiteit van debugging en een relatief klein ecosysteem van plug-ins, kunnen problemen opleveren, maar wegen niet zwaarder dan de voordelen voor dit specifieke project.
 
 ### De CX bij Directus
-Directus onderscheidt zich om verschillende redenen als een uitstekend contentmanagementsysteem (CMS):
+Directus onderscheidt zich om verschillende redenen als een uitstekend headless contentmanagementsysteem (headless CMS):
 
 1. **Uitgebreide documentatie**: Directus biedt uitgebreide en goed georganiseerde documentatie die alle aspecten van het platform bestrijkt, waardoor het voor gebruikers gemakkelijker wordt om de functies ervan effectief te begrijpen en te gebruiken.
 
@@ -24,10 +24,10 @@ Directus onderscheidt zich om verschillende redenen als een uitstekend contentma
 
 3. **Gebruiksvriendelijke interface voor databasebeheer**: Directus beschikt over een intuïtieve en gebruiksvriendelijke interface die speciaal is ontworpen voor databasebeheer. Dit maakt het toegankelijk voor gebruikers met verschillende niveaus van technische expertise, waardoor ze gemakkelijk door hun gegevens kunnen navigeren en deze kunnen manipuleren.
 
-Over het geheel genomen maken deze functies Directus een krachtige en betrouwbare keuze voor diegenen die op zoek zijn naar een flexibel en effectief CMS.
+Over het geheel genomen maken deze functies Directus een krachtige en betrouwbare keuze voor diegenen die op zoek zijn naar een flexibel en effectief headless CMS.
 
 ### Conclusie
-Door Nuxt en Directus als tech-stack te kiezen, is er een goed balans tussen performance, SEO optimization en accessibility. De Server-Side Rendering van Nuxt is vooral gunstig voor toepassingen waarbij SEO en performance prioriteiten zijn. Hoewel het een kleinere community en minder uitgebreide documentatie heeft, biedt Nuxt aanzienlijke voordelen, zoals automatische code splitting en een robuuste beveiliging, die beide de gebruikerservaring (UX) en ontwikkelaarservaring (DX) naar een hoger niveau tillen.
+Door Nuxt en Directus als tech-stack te kiezen, is er een goed balans tussen de 3 experiences (UX, DX, CX). De Server-Side Rendering van Nuxt is vooral gunstig voor toepassingen waarbij SEO en performance prioriteiten zijn. Hoewel het een kleinere community en minder uitgebreide documentatie heeft, biedt Nuxt aanzienlijke voordelen, zoals automatische code splitting en een robuuste beveiliging, die beide de gebruikerservaring (UX) en ontwikkelaarservaring (DX) naar een hoger niveau tillen.
 
 Aan de andere kant biedt Directus een veilig en goed gedocumenteerd platform dat een intuïtieve Content Experience (CX) biedt via een eenvoudig te gebruiken databasebeheerinterface. Dit maakt het een ideale keuze voor het effectief beheren van inhoud binnen het project. Samen vormen Nuxt en Directus een robuuste en flexibele tech-stack die niet alleen voldoet aan de eisen van het project, maar ook de algehele gebruikerservaring optimaliseert.
 
