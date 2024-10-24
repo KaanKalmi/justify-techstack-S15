@@ -6,10 +6,10 @@ Tijdens sprint 15 moest ik een nieuwe techstack kiezen en onderzoeken, hierbij h
 ### De User Experience en Developer Experience bij Nuxt
 Hoewel Vue en Nuxt beiden hun uitdagingen hebben, is **Nuxt** waarschijnlijk de betere keuze voor het FDND-programma, met name vanwege de **Server-Side Rendering (SSR)**-mogelijkheden. SSR biedt belangrijke voordelen op het gebied van **SEO** en **performance**, wat essentieel kan zijn voor een microsite, vooral als die goed moet presteren in zoekmachines.
 
-Er zijn echter enkele nadelen aan Nuxt. De **documentatie** is niet optimaal, wat het leerproces uitdagender kan maken, vooral voor minder ervaren developers. Ook heeft Nuxt een **kleinere community**, wat het moeilijker maakt om snel antwoorden of oplossingen te vinden bij problemen. Dit kan het leerproces verder bemoeilijken en leiden tot frustraties tijdens de ontwikkeling.
+Er zijn echter enkele nadelen aan Nuxt. De **documentatie** is niet optimaal, wat het leerproces uitdagender kan maken, vooral voor minder ervaren developers. Ook heeft Nuxt een **kleinere community**, wat het moeilijker maakt om snel antwoorden of oplossingen te vinden bij problemen. Dit kan het leerproces verder hinderen en leiden tot frustraties tijdens de ontwikkeling.
 
 Toch biedt Nuxt enkele duidelijke voordelen:
-- **Verbeterde SEO, accessibility en performance**, wat cruciaal is voor moderne webtoepassingen.
+- **Verbeterde SEO, accessibility en performance**, wat cruciaal is voor moderne web apps.
 - **Automatische code splitting**, wat de laadtijden verbetert.
 - **Robuuste beveiliging** voor statische sites.
 
